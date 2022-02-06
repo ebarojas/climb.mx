@@ -1,2 +1,5 @@
 [project]
 name = climb.mx
+
+[servers.ghpages]
+target = ghpages://ebarojas/climb.mx
