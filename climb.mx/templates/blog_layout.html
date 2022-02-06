@@ -4,11 +4,11 @@
 <title>{% block title %}Welcome{% endblock %} — climb.mx</title>
 <body>
   <header>
-    <h1>México Climbing</h1>
+    <h1>Writing</h1>
     <nav>
       <ul class="nav navbar-nav">
         <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">🏡 Home</a></li>
+          %}><a href="{{ '/'|url }}">Home</a></li>
         {% for href, title in [
           ['/about', 'About']
         ] %}
@@ -22,6 +22,6 @@
     {% block body %}{% endblock %}
   </div>
   <footer>
-    &copy; Copyright 2021, Everardo J. Barojas-Méndez.
+    &copy; Copyright 2022, Everardo J. Barojas-Méndez.
   </footer>
 </body>
