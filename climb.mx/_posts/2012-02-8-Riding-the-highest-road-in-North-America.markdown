@@ -1,12 +1,9 @@
-title: Riding the highest road in North America
 ---
-pub_date: 2012-02-8
+layout: post
+title:  "Riding the highest road in North America"
+date:   2012-02-8 01:26:41 +0000
+categories: long distance cycling bicycle mexico climbing travel
 ---
-author: Everardo J. Barojas-Méndez
----
-twitter_handle: @e_barojas
----
-body:
 
 It’s been a long time since my first post (a true masterpiece of modern blogging), but as you may or may not have heard, I recently (Jan 2012) embarked on an “epic” off road traverse of the mexican trans volcanic belt and east sierra. I was following this route (click on the blue markers to see info on important bits):
 
@@ -21,12 +18,12 @@ The pinnacle, at least physically, of those weeks was climbing the service road 
 
 I’ve been thinking long and hard on how to describe the road, and after a lot of mental strain I have successfully found a word to describe it: amazing. Actually, thinking a bit harder I thought of one (1) additional word: hard. Amazing & hard is mostly what my limited describing abilities can manage, although it was also cold, sandy, slippery, foggy and high.
 
-![Winding, sandy, high road at 4,300m](gtmroad.jpg)
+![Winding, sandy, high road at 4,300m](/assets/imgs/gtmroad.jpg)
 *Winding, sandy, high road at 4,300m.*
 
 It was nice to finally bike here, I had tried a year before and was denied access because I did not have a permit (if you need a permit, email Ing. Janina Nava). I will say that reaching a summit by bike is not nearly as dramatic as dragging one’s behind through a ridge or front pointing the last steep ice slope, dramatically grasping for breath. However it is equally tiring, less stressful and you do get down a lot faster; it’s sort of like skiing in that way, so not all that bad.
 
-![Irrefutable proof of my presence and success.](gtmb.jpg)
+![Irrefutable proof of my presence and success.](/assets/imgs/gtmb.jpg)
 *Irrefutable proof of my presence and success*
 
 I hope you enjoyed it, and will continue to post soon.
