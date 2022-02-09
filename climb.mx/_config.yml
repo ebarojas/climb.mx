@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website, where I write, share photographs
   and ponder my situation and the world around me. My themes are
   related to Bitcoin, programming, bicycles, adventure, climbing.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://climb.mx" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Used in Minima 2.5
