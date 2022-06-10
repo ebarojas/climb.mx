@@ -1,6 +1,6 @@
 # climb.mx
 
-## A minimalist static content website using Lektor
+## A minimalist static content website using Jekyll
 
 ### Dev environment
 

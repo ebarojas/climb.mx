@@ -25,7 +25,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # Open ports:
   # 5432  - Postgres
   # 8000 - Django
-  [5432, 8000].each do |p|
+  # 11371 - TCP
+  # 35729 - Live Refresh version
+  [5432, 8000, 11371, 35729].each do |p|
     config.vm.network :forwarded_port, guest: p, host: p
   end
 
