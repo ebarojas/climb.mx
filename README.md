@@ -6,14 +6,31 @@
 
 Using vagrant (check docs) - once you ```vagrant up``` and all resources are installed you can:
 
-Run dev server
+### Install dependencies
+
+According to: https://jekyllrb.com/docs/installation/ubuntu/
+
+```sudo apt-get install ruby-full build-essential zlib1g-dev```
+
+```
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+And finally:
+
+```gem install jekyll bundler```
+
+In some cases you need to upgrade your Ruby version, follow: https://gorails.com/setup/ubuntu/16.04
+
+#### Run dev server
 
 From vagrant ssh and inside of /climb.mx run:
 
-```lektor server -p 8000 -h 0.0.0.0```
+```bundle exec jekyll serve --host=0.0.0.0:8000```
 
 ### Deployment
 
-This site is deployed to github pages using the commands ```lektor build``` and ```lektor deploy``` using settings from the ```.lektorproject``` file.
-
-In order to deploy to gh-pages you need to configure SSH token auth from vagrant.
+This site is deployed to github pages automatically on push according to the Actions defined in ```.github/```
