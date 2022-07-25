@@ -21,7 +21,7 @@ source ~/.bashrc
 
 And finally:
 
-```gem install jekyll bundler```
+```bundle install```
 
 In some cases you need to upgrade your Ruby version, follow: https://gorails.com/setup/ubuntu/16.04
 
@@ -29,7 +29,7 @@ In some cases you need to upgrade your Ruby version, follow: https://gorails.com
 
 From vagrant ssh and inside of /climb.mx run:
 
-```bundle exec jekyll serve --host=0.0.0.0:8000```
+```bundle exec jekyll serve --host=0.0.0.0 --port=8000```
 
 ### Deployment
 
