@@ -2,6 +2,7 @@
 layout: post
 title:  "On rehashing whatever this is"
 date:   2022-07-22 01:26:41 +0000
+permalink: /on-rehashing-whatever-this-is/
 categories: long distance cycling bicycle climbing travel xbike
 ---
 <!-- ## climb.mx: a deconstruction of nothing -->
