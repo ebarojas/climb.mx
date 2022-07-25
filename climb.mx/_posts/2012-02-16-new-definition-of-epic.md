@@ -1,6 +1,6 @@
 ---
 id: 223
-title: 'New definition of &#8220;epic&#8221;'
+title: 'New definition of epic'
 date: '2012-02-16T21:20:25+00:00'
 author: cheve5
 layout: post
