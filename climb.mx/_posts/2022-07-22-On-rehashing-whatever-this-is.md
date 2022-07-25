@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "On rehashing whatever this is"
-date:   2022-07-25 01:26:41 +0000
+date:   2022-07-22 01:26:41 +0000
 categories: long distance cycling bicycle climbing travel xbike
 ---
-
-# climb.mx: a deconstruction of nothing
+<!-- ## climb.mx: a deconstruction of nothing -->
 
 At a very different point in my life, I thought I would enhance my love of the mountains with my necessity to make money and I attempted to build a small mountain guiding operation. I wanted to appeal to foreigners and so I bought this domain: climb.mx.
 
