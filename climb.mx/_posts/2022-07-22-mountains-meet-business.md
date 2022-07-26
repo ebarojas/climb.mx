@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "On rehashing whatever this is"
+title:  "Mountains meet Business (and how to move forward)"
 date:   2022-07-22 01:26:41 +0000
-permalink: /on-rehashing-whatever-this-is/
+permalink: /mountains-meet-business/
 categories: long distance cycling bicycle climbing travel xbike
 ---
 <!-- ## climb.mx: a deconstruction of nothing -->
@@ -30,4 +30,6 @@ In any case, I quit guiding after roughly 2014 - at that point I was subrogating
 
 Some months ago I decided wordpress was boring and switched to using Jekyll as a labour of love and learning. I hadn’t worked on a Ruby based framework for a while and was using Docusaurus for a professional project and really liked it.
 
-I made the switch, so here it is, a newer, more basic, less is more version of the climb.mx that you (whoever you are) know and love
+I made the switch, so here it is, a newer, more basic, less is more version of the climb.mx that you (whoever you are) know and love.
+
+Everardo
