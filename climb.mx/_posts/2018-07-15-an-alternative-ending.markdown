@@ -3,6 +3,7 @@ layout: post
 title: 'An Alternative Ending'
 date: 2018-07-15T17:51:20+00:00
 categories: long distance cycling cycling audax
+permalink: /an-alternative-ending/
 ---
 
 After sleeping under the stars for 978 days and travelling the entire length of the equator several times, he packed his bike into a neat little box and boarded a flight back to his home country. He was a borne adventurer, a rough man with a steady, firm, handshake and worn out hands that would regularly get him out of trouble in his travels. He arrived at the airport with time to spare, checked in his bike in a box and boarded the plane.

@@ -6,7 +6,7 @@ categories: gear  climbing travel Korea Corea touring
 permalink: /on-travelling/
 ---
 
-# On travelling
+<!-- # On travelling -->
 
 As I’ve grown older, travelling has become more of a necessity for my mental health than an act of leisure. My destinations have become more and more particular but with less time to spare, so as always some interesting counterpoints.
 

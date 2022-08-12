@@ -3,6 +3,7 @@ layout: post
 title:  "Riding the highest road in North America"
 date:   2012-02-8 01:26:41 +0000
 categories: long distance cycling bicycle mexico climbing travel
+permalink: /riding-the-highest-road-in-north-america/
 ---
 
 It’s been a long time since my first post (a true masterpiece of modern blogging), but as you may or may not have heard, I recently (Jan 2012) embarked on an “epic” off road traverse of the mexican trans volcanic belt and east sierra. I was following this route (click on the blue markers to see info on important bits):
