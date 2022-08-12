@@ -14,7 +14,7 @@ With less time, I’ve found that mixing up activities can make the challenge mo
 
 In Korea, mountains are highly touristic places. Everybody loves a good mountain walk, and even politicians make it a point to be seen at the mountains. Top quality gear is abundant and crowds are a common sight. In fact, like many things in Korea it is a sharing experience.
 
-One of the most peculiar things is that mountains in Korea are quite rocky and steep, often with beautiful granite slabs where friction climbing and exposure would be a significant challenge, however, all of the paths I experienced were completely intervened with chains, ropes, steel cables, steel stakes and even full flights of stairs in the steepest sections. A complete sacrilege of the alpine standards of conservation and - some would argue - to the development of future athletes.
+One of the most peculiar things is that mountains in Korea are quite rocky and steep, often with beautiful granite slabs where friction climbing and exposure would be a significant challenge, however, all of the paths I experienced were completely intervened with chains, ropes, steel cables, steel stakes and even full flights of stairs in the steepest sections. A complete sacrilege of alpine and conservation standards and - some would argue - in detriment to the development of future athletes.
 
 During my time there I climbed Uisang Peak, part of the Bukhan Mt. Where possible I tried to avoid the extra aid and climb by my own means, but in some places it was impossible due to the stairs or stakes being right where the only weaknesses of the route were (ie: cracks and gullies where you’d logically climb). This makes the mountains very accessible even to novice climbers, and if you want you can still do some sport or trad pitches where I assume the rock has been left intact.
 
@@ -37,7 +37,7 @@ It’s quite impressive how different cultures develop the sport, I’d say ther
 It’s completely clear that Korea is on the most developed level while Mexico is on the least.  The more developed an area, the easier it is for people to visit and the more the sport is developed. In my personal opinion, places like the Alps and the Pyrenees are the gold standard, great infrastructure like heated and well kept refuges, challenging routes for every level and minimal intervention to the rock or route. On the plus side, for people that enjoy adventure the least developed an area can be the most appealing and attractive.
 
 ![The sort of trails you find!](/assets/imgs/wall.jpg)
-*Check out the trails!*
+*CThe sort of trails you find.*
 
 As far as the cycling goes: driving culture is very very different from North America and Mexico in particular and we are definitely NOT used to the level of bike infrastructure that Seoul and the areas surrounding it have. Much like with trails, bike roads have dedicated super highways with their own bridges (like proper bridges that cross the 500m wide Han river), rest areas and in the main network around Seoul (hundreds of kms) it’s even illuminated!
 
