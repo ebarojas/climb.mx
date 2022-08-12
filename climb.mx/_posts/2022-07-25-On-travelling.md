@@ -2,6 +2,7 @@
 layout: post
 title:  "On travelling"
 date:   2022-07-25 23:26:41 +0000
+image: "/assets/imgs/wall.jpg"
 categories: gear  climbing travel Korea Corea touring 
 permalink: /on-travelling/
 ---
