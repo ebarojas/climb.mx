@@ -1,3 +1,5 @@
+{% seo %}
+
 ---
 layout: post
 title:  "On travelling"
