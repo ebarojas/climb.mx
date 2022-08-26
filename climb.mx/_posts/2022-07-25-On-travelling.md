@@ -38,7 +38,7 @@ It’s quite impressive how different cultures develop the sport, I’d say ther
 It’s completely clear that Korea is on the most developed level while Mexico is on the least.  The more developed an area, the easier it is for people to visit and the more the sport is developed. In my personal opinion, places like the Alps and the Pyrenees are the gold standard, great infrastructure like heated and well kept refuges, challenging routes for every level and minimal intervention to the rock or route. On the plus side, for people that enjoy adventure the least developed an area can be the most appealing and attractive.
 
 ![The sort of trails you find!](/assets/imgs/wall.jpg)
-*CThe sort of trails you find.*
+*The sort of trails you find.*
 
 As far as the cycling goes: driving culture is very very different from North America and Mexico in particular and we are definitely NOT used to the level of bike infrastructure that Seoul and the areas surrounding it have. Much like with trails, bike roads have dedicated super highways with their own bridges (like proper bridges that cross the 500m wide Han river), rest areas and in the main network around Seoul (hundreds of kms) it’s even illuminated!
 
