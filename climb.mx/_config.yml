@@ -68,9 +68,9 @@ minima:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# SEO Tag plugin
+# SEO Tag plugin specs
 twitter:
   username: e_barojas
-  card: summary
+  card: summary_large_image
   tagline: Come into the wild.
   url: https://www.climb.mx
