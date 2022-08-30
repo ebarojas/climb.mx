@@ -67,3 +67,10 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# SEO Tag plugin
+twitter:
+  username: e_barojas
+  card: summary
+  tagline: Come into the wild.
+  url: https://www.climb.mx

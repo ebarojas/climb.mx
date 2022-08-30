@@ -4,6 +4,7 @@ title:  "On travelling"
 date:   2022-07-25 23:26:41 +0000
 image: /assets/imgs/wall.jpg
 categories: gear  climbing travel Korea Corea touring 
+description: On how travelling has changed over the years, how I've mixed it with professional travel and some of my experiences in Korea.
 permalink: /on-travelling/
 ---
 
