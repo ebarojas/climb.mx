@@ -30,6 +30,12 @@ url: "https://www.climb.mx"
 twitter:
   username: e_barojas
   card: summary_large_image
+social:
+  name: Everardo J. Barojas
+  links:
+    - https://twitter.com/e_barojas
+    - https://www.linkedin.com/in/everardo-barojas
+    - https://github.com/ebarojas
 
 # Used in Minima 2.5
 # twitter_username: e_barojas
