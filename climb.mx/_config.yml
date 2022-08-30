@@ -21,10 +21,15 @@
 title: climb.mx
 author:
   name: Everardo J. Barojas
+tagline: Come into the wild.
 description: >- # this means to ignore newlines until "baseurl:"
   This my personal website, where I write, ponder my situation and the world around me, share pictures and other interesting things. My themes are
   related to Bitcoin, programming, bicycles, adventure, climbing.
-url: "https://climb.mx" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.climb.mx"
+# SEO Tag plugin specs
+twitter:
+  username: e_barojas
+  card: summary_large_image
 
 # Used in Minima 2.5
 # twitter_username: e_barojas
@@ -67,10 +72,3 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# SEO Tag plugin specs
-twitter:
-  username: e_barojas
-  card: summary_large_image
-  tagline: Come into the wild.
-  url: https://www.climb.mx
