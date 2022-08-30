@@ -3,6 +3,8 @@ layout: post
 title:  "On reusing gear"
 date:   2022-07-24 07:26:41 +0000
 categories: gear climbing travel Thom McCan goodyear welt
+image: /assets/imgs/on_reusing_gear/boots.jpeg
+description: Musings on reusing old gear.
 permalink: /on-reusing-gear/
 ---
 
