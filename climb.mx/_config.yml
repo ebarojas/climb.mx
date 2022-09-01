@@ -78,3 +78,11 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Adapt to needs with: https://jekyllrb.com/docs/configuration/front-matter-defaults/
+# sourced from: http://jekyll.github.io/jekyll-seo-tag/advanced-usage/
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/imgs/10247068594_d47b8a25c7_b.jpg # this defines a default image when no other is found
