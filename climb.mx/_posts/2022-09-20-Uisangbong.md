@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Climb and bike: Uisang peak in Korea"
-date:   2022-09-23 00:26:41 +0000
+date:   2022-09-22 23:26:41 +0000
 image: /assets/imgs/uisangbong/korea_bike.jpg
 categories: gear climbing travel Korea Corea Goran Kropp
 description: Quick video on this bike+hike day trip to Bukhansan mountains close to Seoul.
