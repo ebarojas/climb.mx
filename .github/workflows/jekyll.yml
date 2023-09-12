@@ -42,11 +42,19 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+      - name: Install Bundler
+        run: gem install bundler
+      - name: Install Dependencies
+        run: |
+          cd ./climb.mx
+          bundle install
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+        run: |
+          cd ./climb.mx
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"      
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
