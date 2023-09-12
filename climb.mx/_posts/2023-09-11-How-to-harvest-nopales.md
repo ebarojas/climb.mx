@@ -27,7 +27,7 @@ One of the best feelings is to come back from a walk with some delicious food th
 ![Choose the Nopal](/assets/imgs/nopales/ChooseWisely.jpg)
 *Choose the Nopal*
 
-![Clean the lower part before you chop it off.](/assets/imgs/nomapes/BeforeYouCut.jpg)
+![Clean the lower part before you chop it off.](/assets/imgs/nopales/BeforeYouCut.jpg)
 *Clean the lower part before you chop it off.*
 
 ![Once the bottom part is clean, hold it like this to perform the shaving motion to clean the thorns.](/assets/imgs/nopales/CleanTheCactus.jpg)
