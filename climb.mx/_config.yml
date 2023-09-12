@@ -56,8 +56,8 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    twitter: e_barojas
-    github:  ebarojas
+    - { platform: github,  user_url: "https://github.com/ebarojas" }
+    - { platform: twitter, user_url: "https://twitter.com/e_barojas" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
