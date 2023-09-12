@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to harvest nopales"
+title:  "How to harvest nopales (and eat them)"
 date:   2023-09-11 21:26:41 +0000
 image: /assets/imgs/nopales/nopales.jpg
 categories: climbing travel Mexico
@@ -8,9 +8,7 @@ description: How to harvest nopales in Mexico.
 permalink: /nopales/
 ---
 
-# How to pick nopales (and eat them)
-
-A guide to one of my favourite things, eating Nopales!
+### A guide to one of my favourite things, eating Nopales!
 
 This technique has served me well to pick and eat Nopales from the highlands of Mexico all the way up to the Utah deserts in Capitol Reef and around, where Nopales are not generally eaten but are part of the landscape.
 
