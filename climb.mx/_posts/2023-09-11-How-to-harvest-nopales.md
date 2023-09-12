@@ -3,7 +3,7 @@ layout: post
 title:  "How to harvest nopales (and eat them)"
 date:   2023-09-11 21:26:41 +0000
 image: /assets/imgs/nopales/nopales.jpg
-categories: climbing travel Mexico
+categories: Nopales Cactus Prickly Pear Harvest Survival Food
 description: How to harvest nopales in Mexico.
 permalink: /nopales/
 ---
