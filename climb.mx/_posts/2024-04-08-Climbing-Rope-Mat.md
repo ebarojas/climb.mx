@@ -38,18 +38,18 @@ Now the therapy really begins. Untangle the rope and feed into the ground just l
 
 Your next step is a long and tedious one and the meat and potatoes of this therapy. You will lay your basic knot down with the short end of the rope and then proceed to heroically weave your ~60m of rope through it.
 
-While feeding your entire length of rope through the intricacies of the the knot you will think of the times you did this to find the middle of the rope in an abseil, it will remind you of the times you prepared your rope to throw it of a ledge to abseil. You'll relive your multipitches as you recover the rope from below. And if there ever was an accident where rope handling was involved, you'll be taken back to it courtesy of PTSD. Remember to take a moment to breathe and remind yourself that you are not standing in a ledge held by a 10mm rope clipped to an equalized anchor made up of 2 camming devices and a #5 hex. Remember that the actual event happened a long time ago and try to get back to reality. Once you come back don't fret, just keep calmly working the rope into itself. This is your job now. Find where the rope is supposed to go get the tip of the long end of the rope through the weavings of the knot and feed 50 meters of rope on the floor of your living room over and over again, it's not weird.
-
-You will do this for hours. You will curse your rope and this entire endeavour. You will get tired, worn down and as you do, a realisation will slowly dawn on you. You will place this welcome mat in your entrance and see it every day. Will you relive this? Yes. Will you enjoy it? No. Will it trigger your PTSD? Only if you do it right.
+While feeding your entire length of rope through the intricacies of the the knot you will think of the times you handled the rope like this to find the middle of the rope in an abseil, it will remind you of the times you prepared your rope to throw it of a ledge. You'll relive your multipitch climbs and how you pulled the slack of the rope from above while the carabiners in the anchor clanked against each other. And if there ever was an accident where a rope was involved, you'll be taken straight back to it. Remember to take a moment to breathe and remind yourself that you are not standing in a ledge held by a 10mm rope clipped to an equalized anchor made up of 2 camming devices and a #5 hex. Remember that the actual event happened a long time ago and try to get back to reality. Once you come back don't fret, just keep calmly working the rope into itself. This is your job now. Visually follow the knot and figure out where  the rope goes, get the tip of the long end through the weavings of the knot and feed 50 meters of rope on the floor of your living room to tighten it. Over and over again.
 
 ![Here's the rug in al its glory](/assets/imgs/therapy/rug.jpg)
 *The final result*
+
+You will do this for hours. You will curse your rope and this entire endeavour. You will get tired, worn down and as you do, a realisation will slowly dawn on you. You will place this welcome mat in your entrance and see it every day. Will you relive this? Yes. Will you enjoy it? No. Will it trigger your PTSD? Only if you do it right.
 
 Make no mistake, if you're lucky enough to be alive you are going to live with what you've done, the decisions and mistakes you've made will haunt you no matter what. So... why not get a welcome mat out of it?
 
 # Specifications
 
-Finally, for my engineering nerdiness I will give some specs on my actual mat.
+Finally, for my engineering nerdiness I will give some specs on my actual welcome mat.
 
 - This is a 60m Mammut Apex 10.5mm dynamic rope.
 - The mat is 50x90cm long approximately.
