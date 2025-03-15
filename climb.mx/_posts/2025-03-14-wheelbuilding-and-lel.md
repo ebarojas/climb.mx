@@ -4,10 +4,10 @@ title:  "London Edinburgh London preparation and wheelbuilding"
 date:   2025-03-14 20:06:17 +0000
 categories: Bicycle LEL London Edinburgh London 2025 LEL
 description: Preparation for Londong Edinburgh London race and some insights after my first wheelbuilding exercise
-permalink: /lelwheelbuild2025
+permalink: /lelwheelbuild2025/
 ---
 
-# London Edinburgh London Preparation and such
+## London Edinburgh London Preparation and such
 
 Bikes have been interesting to me since I was a kid. My godfather (a very complicated figure in my life, very strongly influenced my sense of manliness and rebeliousness, but at the same time I realise that he is was an alcoholic womaniser with whom I share little in way of values) gifted me my first bike when I turned 5 years old or such. I could not ride it, since it was a 5 speed 24" that had no security wheels. So I rode my elder sister's backpedal blue bicycle for a while until I gathered the courage and skill to ride the 5spd. Ever since I've been fascinated by the locomotion that bicycles provide.
 
